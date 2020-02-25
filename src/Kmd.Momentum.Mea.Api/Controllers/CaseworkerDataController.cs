@@ -13,7 +13,7 @@ namespace Kmd.Momentum.Mea.Api.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public string Get()
         {
-            return "Implementation pending";
+            return "Implementation pending as of now";
         }
     }
 }
